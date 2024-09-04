@@ -5,6 +5,7 @@
 - NodeJS server without framework  https://github.com/sergiuchilat/node-server
 - Node JS sample CRUD example https://github.com/sergiuchilat/web2-2024-express
 - DataBase structure https://dbdiagram.io/d/Web2-2024-e-register-66d7f289eef7e08f0e9f2b99
+- Postman collection https://elements.getpostman.com/redirect?entityId=7163504-41341f74-b505-4b78-af91-84c7a76ea49e&entityType=collection
 
 # Tutorials
 - Restful API https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.
