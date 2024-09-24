@@ -1,4 +1,6 @@
 # web2-2024
+# Link to conference
+https://meet.google.com/urb-qchw-qyq
 
 # Practical examples
 - Node JS app from scratch https://github.com/sergiuchilat/web2-2024-node
